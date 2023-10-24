@@ -1,14 +1,6 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "../../images/shane-sunday.jpg"
+imageAlt: "Shane and dog Sunday"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
-
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
-
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
-
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+Hello 👋 My name is Shane Lonergan. I am a man with many hats, my favorites being full stack web developer, actor, musician, and keyboard enthusiast. Born and raised in Michigan, I went to Oberlin College intending to become a doctor. However, in my first semester I was lucky enough to be cast in a student theater production of the musical Next to Normal, and my life would never be the same. Though I held on to my Biology major, a burning love of Musical Theater consumed my college years, and after graduating I moved to New York to pursue my Broadway dream. After a few years though, I found there was a hole in my life Biology had once filled. In search of something to replace it, I stumbled upon some coding tutorials on YouTube, and I was immediately hooked. I attended the Flatiron school, where I learned more in 15 weeks then I ever thought was possible, and met some of the most incredible people doing it. Since graduating, I have worked for almost 4 years as a Full Stack developer for the Church Pension Group while doing a bit of freelance on the side. Don’t hesitate to reach out!
